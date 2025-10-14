@@ -50,7 +50,7 @@ Project/
 
 ### 1. Clonar o repositório
 ```
-git clone https://github.com/seuusuario/biblioteca-django.git
+git clone https://github.com/ninawz/biblioteca-django.git
 cd biblioteca-django
 ```
 ### 2. Criar ambiente virtual
